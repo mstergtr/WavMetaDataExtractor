@@ -1,0 +1,12 @@
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\MetaDataWavExtractor.exe.config
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\MetaDataWavExtractor.exe
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\MetaDataWavExtractor.pdb
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\Microsoft.WindowsAPICodePack.dll
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\Microsoft.WindowsAPICodePack.xml
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\obj\Debug\MetaDataWavExtractor.csprojAssemblyReference.cache
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\obj\Debug\MetaDataWavExtractor.csproj.CopyComplete
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\obj\Debug\MetaDataWavExtractor.exe
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\obj\Debug\MetaDataWavExtractor.pdb
+D:\Desktop\Coding\MetaDataExtract\MetaDataWavExtractor\bin\Debug\AxInterop.WMPLib.dll
